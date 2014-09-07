@@ -1,2 +1,3 @@
 scrabble-simple
 ===============
+I built this Scrabble port in the summer of 2014 to practice the python language. I tried to include as many features as would be available to a player in any real scrabble game. The program includes drag-and-drop functionality to place letters on the board as well as enforce legal placement, automatic score calculation, support for as many players as could feasibly play, the same alphabet scrabble uses included blank tiles, and the dictionary in sowpods.txt to enforce legal words. I may expand this in the future to add some features to make it more interesting than the physical scrabble game. 
